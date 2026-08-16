@@ -1,1 +1,49 @@
+### Atividade Prática: Identificando a IA
+
+Abaixo está a análise de 5 tecnologias utilizadas no cotidiano, respondendo aos critérios solicitados na atividade:
+
+---
+
+#### 1. WhatsApp
+* **Onde a IA está presente:** Na ferramenta Meta AI integrada e nas respostas automáticas de contas comerciais.
+* **Qual problema resolve:** A lentidão na busca por informações gerais e a demora no atendimento de suporte ao cliente.
+* **Dados utilizados:** Histórico de conversas textuais, comandos diretos do usuário e informações de perfil.
+* **Benefício direto:** Respostas instantâneas e automação de tarefas simples sem sair do chat.
+* **Risco ou limitação:** Ocorrência de alucinações (respostas incorretas) e preocupações com a privacidade dos dados enviados.
+
+---
+
+#### 2. Spotify
+* **Onde a IA está presente:** Nos algoritmos de recomendação (como "Descobertas da Semana") e no recurso do DJ de IA.
+* **Qual problema resolve:** A fadiga de escolha do usuário e a dificuldade em descobrir novas músicas e artistas alinhados ao seu gosto.
+* **Dados utilizados:** Histórico de reprodução, gêneros mais ouvidos, faixas puladas e horários de escuta.
+* **Benefício direto:** Uma experiência musical totalmente personalizada, fluida e contínua.
+* **Risco ou limitação:** Criação de "bolhas musicais", reduzindo a exposição do usuário a estilos totalmente diferentes do habitual.
+
+---
+
+#### 3. Uber
+* **Onde a IA está presente:** No cálculo do preço dinâmico e na otimização de rotas para o pareamento de viagens.
+* **Qual problema resolve:** A demora para encontrar motoristas disponíveis e a ineficiência de trajetos em horários de trânsito pesado.
+* **Dados utilizados:** Geolocalização em tempo real, histórico de viagens, dados de tráfego local e balanço entre oferta e demanda.
+* **Benefício direto:** Menor tempo de espera para o passageiro e rotas de destino mais rápidas.
+* **Risco ou limitação:** Flutuações imprevisíveis e preços excessivos em horários de pico ou sob condições climáticas adversas.
+
+---
+
+#### 4. iFood
+* **Onde a IA está presente:** Na organização da vitrine personalizada de restaurantes e na distribuição inteligente de cupons.
+* **Qual problema resolve:** A indecisão do consumidor diante de milhares de opções de cardápios disponíveis na região.
+* **Dados utilizados:** Pedidos anteriores, culinárias favoritas, localização do usuário e horários habituais de refeição.
+* **Benefício direto:** Descoberta rápida de refeições ideais e economia de tempo na hora de pedir comida.
+* **Risco ou limitação:** Menor visibilidade para estabelecimentos novos ou pequenos que não pontuam alto nos critérios do algoritmo.
+
+---
+
+#### 5. Netflix
+* **Onde a IA está presente:** Na ordenação dos títulos na tela inicial e na personalização das imagens de capa para atrair o clique.
+* **Qual problema resolve:** O tempo desperdiçado navegando pelo catálogo infinito sem conseguir decidir o que assistir.
+* **Dados utilizados:** Filmes e séries assistidos, tempo de permanência em cada título, buscas realizadas e horários de acesso.
+* **Benefício direto:** Sugestões altamente precisas que se alinham ao humor e preferência histórica do usuário.
+* **Risco ou limitação:** Homogeneização do consumo, mantendo o espectador preso a produções com a mesma fórmula narrativa.
 
