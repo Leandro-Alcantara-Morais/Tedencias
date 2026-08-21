@@ -1,11 +1,8 @@
 # Atividade Prática — Identificando a IA no Cotidiano
 
-## 1. Identificação
-- **Data:** 21/08/2026  
-- **Integrantes:**  
+## 1. Identificação 
   - Leandro Alcântara Morais (RGM: 41160291)  
-  - Leidson Arthur Santana Almeida (RGM: 38222345)  
-
+   
 ---
 
 ## 2. Análise das Tecnologias
