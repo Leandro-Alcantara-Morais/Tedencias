@@ -1,4 +1,4 @@
-# Tendências em Ciência da Computação
+# Tendências em Sistema da Computação
 
 Turma N1 — quinta-feira (noite)
 
