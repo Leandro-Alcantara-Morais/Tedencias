@@ -2,8 +2,7 @@
 
 ## Identificação
 
-- **Nome:** Leandro Alcântara Morais
-- **Turma:** 
+- **Nome:** Leandro Alcântara Morais 
 - **Data:** 17/09/2026
 - **Disciplina:** Tendências em Ciência da Computação
 - **Unidade:** II — Programação Assistida
